@@ -1,4 +1,3 @@
 # identidock
 
 
-# AUTO TEST
