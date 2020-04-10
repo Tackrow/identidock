@@ -1,9 +1,9 @@
 
 
 identidock:
-    build: .
-    # expose:
-	#     - "9090"
+    build: ./
+    expose:
+        - "9090"
     environment:
         ENV: PROD
     links:
